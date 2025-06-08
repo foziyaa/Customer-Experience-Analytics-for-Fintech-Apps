@@ -2,3 +2,21 @@ data/
 *.csv
 .ipynb_checkpoints/
 pynance/
+# Virtual Environment
+venv/
+/venv/
+venv
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Data files (optional but good practice)
+/data/scraped_reviews_raw.csv
+/data/cleaned_reviews.csv
+/data/analyzed_reviews.csv
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
